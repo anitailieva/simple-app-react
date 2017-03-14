@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15684e60-1266-44d9-9e79-4a45b372d014" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/travel.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stylesheets/index.scss" afterPath="$PROJECT_DIR$/src/stylesheets/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stylesheets/ui.scss" afterPath="$PROJECT_DIR$/src/stylesheets/ui.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,45 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Whoops404.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Whoops404.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddDayForm.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AddDayForm.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/AddDayForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="825">
+              <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -85,13 +49,17 @@
         <option value="$PROJECT_DIR$/src/components/SkiDayCount-createClass.js" />
         <option value="$PROJECT_DIR$/src/components/SkiDayCount-ES6.js" />
         <option value="$PROJECT_DIR$/src/components/SkiDayCount.js" />
-        <option value="$PROJECT_DIR$/src/components/SkiDayList.js" />
         <option value="$PROJECT_DIR$/src/components/SkiDayRow.js" />
         <option value="$PROJECT_DIR$/src/components/Oh404.js" />
         <option value="$PROJECT_DIR$/src/components/Whoops404.js" />
-        <option value="$PROJECT_DIR$/src/components/AddDayForm.js" />
-        <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Menu.js" />
+        <option value="$PROJECT_DIR$/src/components/SkiDayList.js" />
+        <option value="$PROJECT_DIR$/src/components/App.js" />
+        <option value="$PROJECT_DIR$/simple-app/package.json" />
+        <option value="$PROJECT_DIR$/simple-app/src/routes.js" />
+        <option value="$PROJECT_DIR$/simple-app/src/components/index.js" />
+        <option value="$PROJECT_DIR$/src/components/AddDayForm.js" />
       </list>
     </option>
   </component>
@@ -105,8 +73,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="487" />
-    <option name="y" value="502" />
+    <option name="x" value="603" />
+    <option name="y" value="359" />
     <option name="width" value="970" />
     <option name="height" value="630" />
   </component>
@@ -171,20 +139,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="App" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -200,13 +154,14 @@
     <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/components/TravelDayCount.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/Whoops404.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayCount.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/App.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayRow.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayList.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayCount-createClass.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/AddDayForm.js" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/components/TravelDayCount.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/Whoops404.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayCount.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/App.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayRow.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayList.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/SkiDayCount-createClass.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/Menu.js&#10;/Users/anitailieva/Documents/Courses/App/src/components/AddDayForm.js" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/simple-app" />
       <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -682,15 +637,15 @@
       <option name="presentableId" value="Default" />
       <updated>1489426577054</updated>
       <workItem from="1489426578511" duration="7695000" />
-      <workItem from="1489475344087" duration="2064000" />
+      <workItem from="1489475344087" duration="6407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9759000" />
+    <option name="totallyTimeSpent" value="14102000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="487" y="502" width="970" height="630" extended-state="0" />
+    <frame x="603" y="359" width="970" height="630" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -704,7 +659,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3203125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25538793" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -741,7 +696,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -759,7 +714,7 @@
         <state relative-caret-position="405">
           <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -769,8 +724,8 @@
         <state relative-caret-position="450">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <marker date="1482134712000" expanded="true" signature="637:666" ph="{&quot;resort&quot;: PropTypes.string.isRequired...}" />
+            <element signature="e#0#48#0" expanded="false" />
+            <marker date="1482134796000" expanded="true" signature="637:666" ph="{&quot;resort&quot;: PropTypes.string.isRequired...}" />
           </folding>
         </state>
       </provider>
@@ -780,7 +735,7 @@
         <state relative-caret-position="615">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -790,9 +745,9 @@
         <state relative-caret-position="705">
           <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1482134712000" expanded="true" signature="261:263" ph="{...}" />
-            <marker date="1482134712000" expanded="true" signature="1066:1092" ph="{&quot;total&quot;: PropTypes.number...}" />
+            <element signature="e#0#31#0" expanded="false" />
+            <marker date="1482134794000" expanded="true" signature="261:263" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1066:1092" ph="{&quot;total&quot;: PropTypes.number...}" />
           </folding>
         </state>
       </provider>
@@ -832,9 +787,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1482134712000" expanded="true" signature="261:263" ph="{...}" />
-            <marker date="1482134712000" expanded="true" signature="1066:1092" ph="{&quot;total&quot;: PropTypes.number...}" />
+            <element signature="e#0#31#0" expanded="false" />
+            <marker date="1482134794000" expanded="true" signature="261:263" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1066:1092" ph="{&quot;total&quot;: PropTypes.number...}" />
           </folding>
         </state>
       </provider>
@@ -848,24 +803,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SkiDayCount-ES6.js" />
     <entry file="file://$PROJECT_DIR$/src/components/SkiDayCount-createClass.js" />
-    <entry file="file://$PROJECT_DIR$/src/components/SkiDayList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SkiDayCount.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1482134712000" expanded="true" signature="261:263" ph="{...}" />
-            <marker date="1482134712000" expanded="true" signature="1066:1092" ph="{&quot;total&quot;: PropTypes.number...}" />
+            <element signature="e#0#31#0" expanded="false" />
+            <marker date="1482134794000" expanded="true" signature="261:263" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1066:1092" ph="{&quot;total&quot;: PropTypes.number...}" />
           </folding>
         </state>
       </provider>
@@ -875,8 +820,8 @@
         <state relative-caret-position="450">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
-            <element signature="e#0#48#0" expanded="true" />
-            <marker date="1482134712000" expanded="true" signature="637:666" ph="{&quot;resort&quot;: PropTypes.string.isRequired...}" />
+            <element signature="e#0#48#0" expanded="false" />
+            <marker date="1482134796000" expanded="true" signature="637:666" ph="{&quot;resort&quot;: PropTypes.string.isRequired...}" />
           </folding>
         </state>
       </provider>
@@ -889,31 +834,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/AddDayForm.js">
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SkiDayList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+            <marker date="1482134794000" expanded="true" signature="313:991" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1015:1283" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1040:1281" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1075:1144" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1173:1252" ph="{...}" />
+            <marker date="1482134794000" expanded="true" signature="1258:1278" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        <state relative-caret-position="216">
+          <caret line="52" column="32" lean-forward="false" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/simple-app/dist/assets/bundle.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-app/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-app/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple-app/src/components/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AddDayForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
